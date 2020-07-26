@@ -1,0 +1,28 @@
+body {background-color: black;}
+
+#home {text:white}
+
+.navbar-brand {
+    
+    Color:white;
+    float: left;
+}
+.navbar-nav {
+    float: right;
+    margin-left: 85%;
+    color: white;
+}
+
+.header{text-align: center;
+color: blanchedalmond; 
+padding-top: 10%;}
+
+footer {
+    background-color: blue;
+    color: white;
+    position: fixed;
+    width:100%;
+    bottom: 0px;
+    text-align: center;
+    }
+
