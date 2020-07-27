@@ -2,6 +2,8 @@ body {background-color: black;}
 
 #home {text:white}
 
+
+ul {color: black;}
 .navbar-brand {
     
     Color:white;
@@ -10,19 +12,68 @@ body {background-color: black;}
 .navbar-nav {
     float: right;
     margin-left: 85%;
-    color: white;
+    color: red;
+    text-align: center;
 }
 
-.header{text-align: center;
-color: blanchedalmond; 
-padding-top: 10%;}
+.header{
+     text-align: center;
+    color: blanchedalmond; 
+    padding-top: 0%;
+background-color: blue;}
 
 footer {
     background-color: blue;
-    color: white;
     position: fixed;
-    width:100%;
+    width: 100%;
     bottom: 0px;
     text-align: center;
     }
+ .btn {
+        padding: 8px 15px;
+        font-size: 14px;
+        line-height: 1.42857143;
+        min-width: 160px;
+        text-align: center;
+        border-radius: 0;
+        text-transform: uppercase;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+    }
+ .btn-default {
+        color: #29536C;
+        border: 1px solid #cccccc;
+    }
+     .btn-default:hover {
+        color: #ffffff;
+        background-color: #29536C;
+        border-color: #29536C;
+}
+
+    .space {
+         padding: 20px;}
+
+ #about_col>p {
+            color: #164f5a;
+            padding-top: 7px;
+          }
+#about_col {
+  padding: 60px 0 60px 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
