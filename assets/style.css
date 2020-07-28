@@ -56,7 +56,10 @@ footer {
     .space {
          padding: 20px;}
 
-
+.nav-li a{
+    color:white;
+    padding:15px;
+}
 
 
 
