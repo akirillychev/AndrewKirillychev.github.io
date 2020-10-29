@@ -1,66 +1,67 @@
-body {background-color: black;}
-
-#home {text:white}
-
-
-ul {color: black;}
-.navbar-brand {
-    
-    Color:white;
-    float: left;
+body {
+    background-color:black;
 }
-.navbar-nav {
-    float: right;
-    margin-left: 85%;
-    color: red;
+
+
+
+.img-fluid {
+    border-radius: 70%;
+    max-height: 700px;
+    padding: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.quote {
+    text-align: center;
+    color: white;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 20px;
+}
+
+.background {
+    background-color:black;
+    padding: 20px;
+    color: white;
+}
+
+.container h1,
+h1 {
+    color: Black;
+    text-align: center;
+    font-size: 55px;
+    padding: 20px;
+}
+
+.container h2,
+p{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.background p{
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 20px;
+}
+
+.resume a{
     text-align: center;
 }
-
-.header{
-     text-align: center;
-    color: blanchedalmond; 
-    padding-top: 0%;
-background-color: blue;}
 
 footer {
-    background-color: blue;
-    position: fixed;
-    width: 100%;
-    bottom: 0px;
+    padding: 15px;
     text-align: center;
-    }
- .btn {
-        padding: 8px 15px;
-        font-size: 14px;
-        line-height: 1.42857143;
-        min-width: 160px;
-        text-align: center;
-        border-radius: 0;
-        text-transform: uppercase;
-        -webkit-transition: all 0.2s ease-in-out;
-        -moz-transition: all 0.2s ease-in-out;
-        -ms-transition: all 0.2s ease-in-out;
-        -o-transition: all 0.2s ease-in-out;
-        transition: all 0.2s ease-in-out;
-    }
- .btn-default {
-        color: #29536C;
-        border: 1px solid #cccccc;
-    }
-     .btn-default:hover {
-        color: #ffffff;
-        background-color: #29536C;
-        border-color: #29536C;
+    color: black;
 }
 
-    .space {
-         padding: 20px;}
-
-.nav-li a{
-    color:white;
-    padding:15px;
+title {
+    color: black;
+    text-align: center;
 }
-
 
 
 
